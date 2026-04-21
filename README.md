@@ -1,6 +1,6 @@
 # GetSolo
 
-SaaS para negocios de servicios en LATAM: reservas online, pagina publica, recordatorios, senas/cobros online, gestion operativa y marketplace por rubro.
+SaaS para negocios de servicios en LATAM: reservas online, pagina publica, recordatorios, señas/cobros online, gestion operativa y marketplace por rubro.
 
 **Sitio:** [getsolo.site](https://getsolo.site)
 
@@ -14,7 +14,7 @@ La plataforma combina:
 
 - agenda online y pagina publica de reservas
 - operacion multi-profesional
-- cobros online y senas
+- cobros online y señas
 - recordatorios y notificaciones
 - caja, finanzas, comisiones y reportes
 - marketplace de descubrimiento por ciudad y rubro
@@ -30,7 +30,7 @@ Este README esta escrito como **overview publico del producto**. El codigo compl
 - Integraciones de pagos y notificaciones para reducir ausencias y profesionalizar la operacion diaria.
 - Un sistema de landings verticalizadas para SEO en distintos paises de LATAM.
 - Un marketplace para descubrir negocios por rubro y ubicacion.
-- Automatizaciones internas para growth, indexing y refresh de senales externas como reviews.
+- Automatizaciones internas para growth, indexing y refresh de señales externas como reviews.
 
 ## Capturas
 
@@ -70,7 +70,7 @@ Este README esta escrito como **overview publico del producto**. El codigo compl
 - asignacion por profesional
 - validacion de disponibilidad real
 - cancelacion y confirmacion de reservas
-- senas online para bajar ausencias
+- señas online para bajar ausencias
 
 ### 2. Operacion del negocio
 
